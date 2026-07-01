@@ -29,6 +29,9 @@ return {
       { "<leader>Ln", "<cmd>Npm<cr>", desc = "Npm" },
       { "<leader>Ly", "<cmd>Yarn<cr>", desc = "Yarn" },
     },
+    config = function ()
+      
+    end
   },
 
   -- ================================
